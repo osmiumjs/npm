@@ -1,0 +1,16 @@
+{
+	"name"        : "@osmium/npm",
+	"description" : "Osmium NPM package info fetcher",
+	"license"     : "MIT",
+	"version"     : "0.1.0",
+	"author"      : {
+		"name" : "Vasiliy Isaichkin",
+		"email": "vasiliy@isaichkin.ru"
+	},
+	"repository"  : "https://github.com/osmiumjs/npm.git",
+	"main"        : "index.js",
+	"dependencies": {
+		"axios"       : "^0.19.0",
+		"osmium-tools": "^0.2.10"
+	}
+}
